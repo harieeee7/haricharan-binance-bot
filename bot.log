@@ -1,0 +1,7 @@
+2025-10-01 21:05:30,570 INFO Test log message
+2025-10-03 01:19:01,116 | INFO | market_sentiment | Market Sentiment Analyzer initialized
+2025-10-03 01:19:01,116 | INFO | market_sentiment | Using sample Fear & Greed data for demonstration
+2025-10-03 01:19:01,117 | INFO | market_sentiment | Current sentiment: Neutral (Index: 45)
+2025-10-03 01:19:01,117 | INFO | market_sentiment | Trading recommendation: HOLD - Neutral sentiment - no clear directional bias
+2025-10-03 01:19:01,119 | INFO | market_sentiment | Sentiment trend analysis: STABLE (7.1%)
+2025-10-03 01:19:01,119 | INFO | market_sentiment | Generated comprehensive sentiment report
